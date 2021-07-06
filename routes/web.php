@@ -9,7 +9,7 @@ use App\Http\Controllers\adminController;
 //     return view('welcome');
 // });
 
-        Route::get('/', 'App\Http\Controllers\adminController@home'); 
+        Route::get('/', 'App\Http\Controllers\userController@home'); 
 
 
         Route::get('/admin', 'App\Http\Controllers\adminController@admin'); 
