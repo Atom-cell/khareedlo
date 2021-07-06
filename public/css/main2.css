@@ -1,0 +1,28 @@
+*{
+    margin: 0px; padding: 0px;
+}
+.lst{
+    padding-left: 10px;
+}
+.lst:hover{
+    font-weight: 600; border-bottom: 1px solid solid; text-decoration: underline;
+}
+.atag{
+    font-size: 18px;
+    text-decoration: none;
+}
+.slidebutton{
+    background: transparent;
+                        box-shadow: 0px 0px 0px transparent;
+                        border: 0px solid transparent;
+                        text-shadow: 0px 0px 0px transparent;
+}
+
+
+
+
+#con{
+    position: sticky;
+}
+
+

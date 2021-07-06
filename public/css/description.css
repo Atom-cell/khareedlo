@@ -1,0 +1,17 @@
+p{
+    font-size: 14px;
+}
+.info{
+    /* margin-left: 50px; */
+    margin-top: 50px
+}
+.name{
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.price{
+    margin-bottom: 20px;
+}
+#cartBtn{
+    background-color: black;padding: 15px;margin-top: 20px; margin-bottom: 20px;color: white;font-weight: bold;
+}

@@ -1,0 +1,51 @@
+*{
+    margin: 0px; padding: 0px;
+}
+
+li{
+    padding-left: 10px;
+}
+li:hover{
+    font-weight: 600; border-bottom: 1px solid solid; text-decoration: underline;
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+}
+button{
+    background: transparent;
+                        box-shadow: 0px 0px 0px transparent;
+                        border: 0px solid transparent;
+                        text-shadow: 0px 0px 0px transparent;
+}
+
+/* img:hover{
+    transform: scale(1.2); 
+} */
+
+
+h5, h6{
+    text-align: center;
+}
+
+#feature{
+    margin: auto; 
+    font-weight: bold;
+}
+#shop{
+    background-color: black;color: white; font-weight: bold;margin-top: 20px;
+}
+.container-fluid{
+    position: sticky;
+}
+.summer{
+    margin-left:40px; margin-top: 40px;
+}
+.empty{
+    /* background-color: peru; */
+    height: 50px;
+}
+.line{
+    border-width: 2px;border-color: black;
+}
+
